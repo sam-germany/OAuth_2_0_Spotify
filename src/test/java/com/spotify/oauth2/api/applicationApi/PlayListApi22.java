@@ -1,9 +1,7 @@
 package com.spotify.oauth2.api.applicationApi;
 
 import com.spotify.oauth2.api.RestResource22;
-import com.spotify.oauth2.api.SpecBuilder22;
 import com.spotify.oauth2.pojo.Playlist;
-import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
 public class PlayListApi22 {
