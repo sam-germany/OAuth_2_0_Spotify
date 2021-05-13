@@ -3,6 +3,8 @@ package com.spotify.oauth2.api;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
+import java.util.HashMap;
+
 public class RestResource22 {
 
 
@@ -40,6 +42,17 @@ public class RestResource22 {
                 .then().spec(SpecBuilder22.getResponseSpec33())
                 .extract()
                 .response();
+    }
+
+    public static Response postAccount22(HashMap<String, String> formParams) {
+
+         return  RestAssured.given(SpecBuilder22.getAccountRequestSpec())
+                            .when()
+                                 .post("/api/token")
+                            .then().spec(SpecBuilder22.getResponseSpec33())
+                                 .extract()
+                                 .response();
+
     }
 
 }
