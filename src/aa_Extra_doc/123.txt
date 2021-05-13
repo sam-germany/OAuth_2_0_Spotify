@@ -1,0 +1,39 @@
+{
+    "collaborative": false,
+    "description": "Updated playlist description",
+    "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/2npR5ljEsYDuzrbNzoDeIH"
+    },
+    "followers": {
+        "href": null,
+        "total": 0
+    },
+    "href": "https://api.spotify.com/v1/playlists/2npR5ljEsYDuzrbNzoDeIH",
+    "id": "2npR5ljEsYDuzrbNzoDeIH",
+    "images": [],
+    "name": "Updated Playlist Name",
+    "owner": {
+        "display_name": "sam_nbg",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/user/yrb4a05403h1y506v2hcjat7j"
+        },
+        "href": "https://api.spotify.com/v1/users/yrb4a05403h1y506v2hcjat7j",
+        "id": "yrb4a05403h1y506v2hcjat7j",
+        "type": "user",
+        "uri": "spotify:user:yrb4a05403h1y506v2hcjat7j"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NSxkYWNhYTlmYjlmM2E0ZTY0MmViNmM2ZDFhMjgzYTc4ZWE4NWFkMjI4",
+    "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/2npR5ljEsYDuzrbNzoDeIH/tracks?offset=0&limit=100",
+        "items": [],
+        "limit": 100,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 0
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:2npR5ljEsYDuzrbNzoDeIH"
+}
