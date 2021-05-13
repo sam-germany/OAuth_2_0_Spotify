@@ -1,0 +1,33 @@
+Scopes
+------
+playlist-modify-public
+playlist-modify-private
+playlist-read-private
+playlist-read-collaborative
+
+playlist-modify-public%20playlist-modify-private%20playlist-read-private%20playlist-read-collaborative
+
+-----------------------------------------------------------
+
+client ID: 62beae4f8230467cbcf3dec97ed5c597
+
+client Secret: 4b996f5499164677af3a4d6313df06c0
+
+code:   AQDWhsZS5PH25p7HbhhgX5S_5I84KKnrWEuV-gj6vkCnNAMD1txREAxGW5IQmxMsBykr3mkmFLuuot5pcCI5J1W8DQGJB9KyhJAuocpBf5pu7b4isE1zLkeOLHu9jNDFYJThh2QAPu3Gb7C20ofZNowe7SP_ehdXKIC0netrWQRUHlpUQhOfJpOjKKxlJAQdYp5zaXdCR3-LdTh8WI6-Zz94ffgRF74H8cWla-aktzcyaFhcReQJOU2ZZgkwU4CrEqXKvSMS1cRckvWpoWsPhF26F0qVBUzhMyXfOpUweg
+
+
+user_id:   yrb4a05403h1y506v2hcjat7j
+
+
+
+Access Token
+
+{
+    "access_token": "BQBWrqSqT0_AfQt3Lu_7wd56w8hcQNPw2OrtkCic1kN4Y7gK4HoPvPhTg371nLTO46lHMs6-6UCn6iX4ZqNUgnM8_yLpM8Ee4CNwhXNVVUdL6p9gly4Lg4SQuC802ti-JOTh-nEiNfyJVeTI9gZMbkQklG6goKadgF2OutD19LDX_BW3coY9K-4ts3Pcp54aO_6B5RHerfvQAciYvRUcFDVRrE0yc7QG-ZunrpuDH5sn",
+    "token_type": "Bearer",
+    "expires_in": 3600,
+    "refresh_token": "AQCnzQwVDpwuOxsWXLFAJeTGKX7jPvyRg5pw75ummYWI95tKTqufeialcOqK2X961z1F0hII3V10K5r-8XDFDfnano8thmeiP7pn0AOrUEA-kA5eCBzgD0d5QH0H_EB229c",
+    "scope": "playlist-read-private playlist-read-collaborative playlist-modify-private playlist-modify-public"
+}
+
+
